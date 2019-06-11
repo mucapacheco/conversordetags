@@ -5,8 +5,5 @@
         "psr-4":{
             "WineGroup\\ConversorTags\\":"src/"
         }
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*"
     }
 }
