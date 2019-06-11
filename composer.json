@@ -1,6 +1,7 @@
 {
     "version":"1.0.0",
     "name": "wine-group/conversor-tags",
+    "license": "MIT",
     "autoload": {
         "psr-4":{
             "WineGroup\\ConversorTags\\":"src/"
