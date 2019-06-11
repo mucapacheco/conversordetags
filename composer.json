@@ -1,6 +1,8 @@
 {
     "version":"1.0.0",
     "name": "wine-group/conversor-tags",
+    "description": "Conversor de Tags HTML",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4":{
