@@ -1,6 +1,6 @@
 {
     "version":"1.0.0",
-    "name": "WineGroup/conversor-tags",
+    "name": "wine-group/conversor-tags",
     "autoload": {
         "psr-4":{
             "WineGroup\\ConversorTags\\":"src/"
