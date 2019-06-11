@@ -8,6 +8,16 @@ class ConverterDefault implements ITagConverter
 {
     private $delimiter = ',';
 
+    /**
+     * ConverterDefault constructor.
+     * @param string $delimiter
+     */
+    public function __construct($delimiter)
+    {
+        $this->delimiter = $delimiter;
+    }
+
+
     public function convert(ConverterData $dataConverter)
     {
        $matchers = $dataConverter->getMatches();
