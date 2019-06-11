@@ -1,0 +1,12 @@
+{
+    "version":"1.0.0",
+    "name": "WineGroup/conversor-tags",
+    "autoload": {
+        "psr-4":{
+            "WineGroup\\ConversorTags\\":"src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
