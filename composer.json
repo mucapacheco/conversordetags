@@ -4,6 +4,12 @@
     "description": "Conversor de Tags HTML",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Pacheco Pereira",
+            "email": "mucapacheco@hotmail.com"
+        }
+    ],
     "autoload": {
         "psr-4":{
             "WineGroup\\ConversorTags\\":"src/"
